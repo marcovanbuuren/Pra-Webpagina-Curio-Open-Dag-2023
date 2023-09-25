@@ -1,7 +1,15 @@
+body{
+    margin-top: 50px;
+}
+
 .grid{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     gap: 15px;
+}
+
+.vakken .grid div{
+    border: 2px dotted #FC3232;
 }
 
 .flexbox{
@@ -22,6 +30,7 @@
     display: grid;
     grid-template-rows: 1fr 10%;
     gap: 15px;
+    border: 2px solid #0050FF;
 }
 
 .grid div img{
