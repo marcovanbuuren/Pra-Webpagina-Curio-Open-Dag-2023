@@ -21,6 +21,7 @@
 .docenten .grid div{
     display: grid;
     grid-template-rows: 1fr 10%;
+    gap: 15px;
 }
 
 .grid div img{
