@@ -18,6 +18,15 @@
     width: 100%;
 }
 
+.docenten .grid div{
+    display: grid;
+    grid-template-rows: 1fr 10%;
+}
+
 .grid div img{
     width: 100%;
+}
+
+.docenten .grid div p{
+    display: inline;
 }
