@@ -3,3 +3,7 @@
     grid-template-columns: 1fr 1fr 1fr;
     gap: 15px;
 }
+
+.rooster img{
+    width: 100%;
+}
